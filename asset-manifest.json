@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b6f60975.chunk.css",
+    "main.js": "/static/js/main.fa74cd82.chunk.js",
+    "main.js.map": "/static/js/main.fa74cd82.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3bbee2e8.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3bbee2e8.js.map",
+    "static/css/2.3107b260.chunk.css": "/static/css/2.3107b260.chunk.css",
+    "static/js/2.d7f9adec.chunk.js": "/static/js/2.d7f9adec.chunk.js",
+    "static/js/2.d7f9adec.chunk.js.map": "/static/js/2.d7f9adec.chunk.js.map",
+    "static/js/3.99511fc0.chunk.js": "/static/js/3.99511fc0.chunk.js",
+    "static/js/3.99511fc0.chunk.js.map": "/static/js/3.99511fc0.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.369bffd2818284cf90888998f1f83242.js": "/precache-manifest.369bffd2818284cf90888998f1f83242.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.3107b260.chunk.css.map": "/static/css/2.3107b260.chunk.css.map",
+    "static/css/main.b6f60975.chunk.css.map": "/static/css/main.b6f60975.chunk.css.map",
+    "static/js/2.d7f9adec.chunk.js.LICENSE.txt": "/static/js/2.d7f9adec.chunk.js.LICENSE.txt",
+    "static/js/3.99511fc0.chunk.js.LICENSE.txt": "/static/js/3.99511fc0.chunk.js.LICENSE.txt",
+    "static/media/exactt_logo.png": "/static/media/exactt_logo.033de952.png",
+    "static/media/exactt_w.png": "/static/media/exactt_w.b6516914.png",
+    "static/media/image.png": "/static/media/image.2a86ebd4.png",
+    "static/media/printer.svg": "/static/media/printer.ce5d565f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3bbee2e8.js",
+    "static/css/2.3107b260.chunk.css",
+    "static/js/2.d7f9adec.chunk.js",
+    "static/css/main.b6f60975.chunk.css",
+    "static/js/main.fa74cd82.chunk.js"
+  ]
+}
